@@ -2,6 +2,9 @@
 
 a test tictactoe game package for QMSS homework
 
+## Documentation
+Read the documentation here: https://tictactoe-tay-gideon.readthedocs.io/en/latest/
+
 ## Installation
 
 ```bash
