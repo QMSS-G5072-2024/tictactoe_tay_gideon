@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tictactoe_gt2528"
+version = "0.1.0"
+description = "a test tictactoe game package for QMSS homework"
+authors = ["Gideon Tay"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
