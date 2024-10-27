@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tictactoe_gt2528"
-version = "0.1.0"
+version = "0.1.1"
 description = "a test tictactoe game package for QMSS homework"
 authors = ["Gideon Tay"]
 license = "MIT"
